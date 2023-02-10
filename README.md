@@ -47,7 +47,7 @@ O objetivo final deste curso é entender os conceitos de manipulação de tabela
 
 # 5.0 Próximas Etapas
  
-- [x] Exercícios aula 05
+- [x] Exercícios aula 05 - Ok 
 - [x] Exercícios aula 06
 - [x] Exercícios aula 07
 - [x] Organizar documentos e melhorar os DashBoards para a Apresentacao. (streamlit)
